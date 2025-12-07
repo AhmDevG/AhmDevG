@@ -28,11 +28,13 @@
 ## **📊 GitHub Stats**  
 
 <div align="center">
-  
-[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmDevG&show_icons=true&theme=radical&hide=issues)](https://github.com/AhmDevG)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmDevG&layout=compact&theme=radical&hide=html,css)](https://github.com/AhmDevG)
+
+[![Ahmed's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=AhmDevG&show_icons=true&theme=radical&hide=issues)](https://github.com/AhmDevG)
+
+[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=AhmDevG&layout=compact&theme=radical&hide=html,css)](https://github.com/AhmDevG)
 
 </div>
+
 
 ## **🌐 Connect With Me**  
 
