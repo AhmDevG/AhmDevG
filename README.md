@@ -1,21 +1,3 @@
-# **Ahmed Ashraf**  
-### *High School Developer in the Making*  
-
-```javascript
-// Animated ASCII Art
-const devArt = `
-   _____                 _ 
-  / ____|               | |
- | |  __  ___   ___   __| |
- | | |_ |/ _ \\ / _ \\ / _\` |
- | |__| | (_) | (_) | (_| |
-  \\_____|\\___/ \\___/ \\__,_|
-  
-  Code flows in my veins since 7th grade!
-`;
-console.log(devArt);
-```
-
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BCF7&background=0D111700&center=true&vCenter=true&width=800&lines=Full-Stack+Learner;Python+Enthusiast;Problem+Solver;Future+Tech+Leader)](https://git.io/typing-svg)
@@ -42,21 +24,13 @@ console.log(devArt);
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets">
 </p>
 
-## **📚 Current Learning Journey**  
-
-```mermaid
-graph LR
-A[Data Structures - ✔️ Done] --> B[Algorithms - ✔️ Done]
-B --> C[WebSockets - In Progress]
-C --> D[Problem Solving - ∞ Continuous]
-```
 
 ## **📊 GitHub Stats**  
 
 <div align="center">
   
-[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma9737149&show_icons=true&theme=radical&hide=issues)](https://github.com/ma9737149)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ma9737149&layout=compact&theme=radical&hide=html,css)](https://github.com/ma9737149)
+[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmDevG&show_icons=true&theme=radical&hide=issues)](https://github.com/AhmDevG)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmDevG&layout=compact&theme=radical&hide=html,css)](https://github.com/AhmDevG)
 
 </div>
 
@@ -65,7 +39,7 @@ C --> D[Problem Solving - ∞ Continuous]
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1137157616804573376)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ma9737149)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmDevG)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ma9737149)
 
 
@@ -73,17 +47,6 @@ C --> D[Problem Solving - ∞ Continuous]
 
 <div align="center">
   
-[![Visitors](https://komarev.com/ghpvc/?username=ma9737149&color=blue&style=flat-square)](https://github.com/ma9737149)
+[![Visitors](https://komarev.com/ghpvc/?username=ma9737149&color=blue&style=flat-square)](https://github.com/AhmDevG)
   
 </div>
-
-<details>
-<summary>✨ Click for Coding Philosophy!</summary>
-<br>
-  
-```python
-def coding_philosophy():
-    return "Every line of code is a step towards mastery!"
-```
-  
-</details>
