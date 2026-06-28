@@ -23,18 +23,8 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.py">
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt = "C++">
 </p>
-
-
-## **📊 GitHub Stats**  
-
-<div align="center">
-
-  [![Ahmed's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=AhmDevG&show_icons=true&theme=radical&hide=issues)](https://github.com/AhmDevG)
-  
-  [![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=AhmDevG&layout=compact&theme=radical&hide=html,css)](https://github.com/AhmDevG)
-
-</div>
 
 
 ## **🌐 Connect With Me**  
