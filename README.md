@@ -1,3 +1,9 @@
+<style>
+  img {
+      vertical-align: middle;
+  }
+</style>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BCF7&background=0D111700&center=true&vCenter=true&width=800&lines=Full-Stack+Learner;Python+Enthusiast;Problem+Solver;Future+Tech+Leader)](https://git.io/typing-svg)
