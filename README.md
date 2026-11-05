@@ -4,7 +4,7 @@
 
 </div>
 
-## **🔥 Tech Stack**  
+## **Tech Stack**  
 
 ### **Frontend Development**  
 <p align="center">
