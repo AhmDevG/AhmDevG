@@ -44,3 +44,5 @@
   [![Visitors](https://komarev.com/ghpvc/?username=AhmDevG&color=blue&style=flat-square)](https://github.com/AhmDevG)
 
 </div>
+
+- NOTE : most of the projects i uploaded here is not fully finished 
