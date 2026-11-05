@@ -45,4 +45,8 @@
 
 </div>
 
-- NOTE : most of the projects i uploaded here is not fully finished 
+<div align="center">
+  <p>
+    <sub>📌 <b>Note:</b> Most of the projects showcased here are still a work in progress and may not be fully completed.</sub>
+  </p>
+</div>
